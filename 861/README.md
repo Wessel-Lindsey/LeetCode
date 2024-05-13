@@ -1,4 +1,4 @@
-861. Score After Flipping Matrix
+#861. Score After Flipping Matrix#
 
 You are given an m x n binary matrix grid.
 
@@ -10,19 +10,20 @@ Return the highest possible score after making any number of moves (including ze
 
  
 
-Example 1:
+##Example 1:##
 
 
 Input: grid = [[0,0,1,1],[1,0,1,0],[1,1,0,0]]
 Output: 39
 Explanation: 0b1111 + 0b1001 + 0b1111 = 15 + 9 + 15 = 39
-Example 2:
+
+##Example 2:##
 
 Input: grid = [[0]]
 Output: 1
  
 
-Constraints:
+##Constraints:##
 
 m == grid.length
 n == grid[i].length
