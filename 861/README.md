@@ -1,4 +1,5 @@
 # 861. Score After Flipping Matrix
+Level: Medium
 
 You are given an m x n binary matrix grid.
 
