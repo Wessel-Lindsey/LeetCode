@@ -14,7 +14,9 @@ Return the highest possible score after making any number of moves (including ze
 ![LeetCode, Problem 861. Score After Flipping Matrix, Example 1](https://assets.leetcode.com/uploads/2021/07/23/lc-toogle1.jpg)
 
 Input: grid = [[0,0,1,1],[1,0,1,0],[1,1,0,0]]
+
 Output: 39
+
 Explanation: 0b1111 + 0b1001 + 0b1111 = 15 + 9 + 15 = 39
 
 ## Example 2:
@@ -26,6 +28,13 @@ Output: 1
 ## Constraints:
 
 m == grid.length
+
 n == grid[i].length
+
 1 <= m, n <= 20
+
 grid[i][j] is either 0 or 1.
+
+# Results:
+![myResults](https://github.com/Wessel-Lindsey/LeetCode/assets/81062161/bc1ec830-3416-4e5c-b919-03535e6b88ab)
+
